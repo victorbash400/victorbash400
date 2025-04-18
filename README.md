@@ -1,39 +1,24 @@
-
-# 👋 Hey there, I'm Victor Bash!
+# Victor Bash
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/2dc49c5d-4cee-407a-9a6d-c4748008ed62" width="100%"/>
 </div>
 
----
+## About Me
 
-## 💫 The TL;DR
+Full-stack developer based in Nairobi, Kenya with a background in finance and a passion for software development. I specialize in creating efficient, scalable solutions and excel in high-pressure environments like hackathons. My technical approach combines financial analytics with innovative programming to deliver robust applications.
 
 ```python
-class VictorBash:
-    def __init__(self):
-        self.name = "Victor Bash"
-        self.location = "Nairobi, Kenya 🇰🇪"
-        self.education = "Finance (officially) but Computer Science (where my heart is)"
-        self.superpower = "Turning coffee and pancakes into code"
-        self.sleep_status = "Optional"
-        self.avocado_tolerance = 0
-    
-    def current_mode(self):
-        return "Hackathon beast mode: ACTIVATED"
+def professional_summary():
+    return {
+        "name": "Victor Bash",
+        "location": "Nairobi, Kenya",
+        "background": "Finance & Computer Science",
+        "focus": "Full-stack development, blockchain solutions"
+    }
 ```
 
----
-
-## 🚀 About Me
-
-Finance major on paper, hardcore developer in practice. I'm that guy who disappears for 48 hours during hackathons and emerges with surprisingly polished projects. Currently based in Nairobi, but my code runs worldwide.
-
-When I'm not pushing commits at 3 AM, you might find me optimizing my workspace, brewing the perfect cup of coffee, or deep-diving into new tech documentation (yes, for fun).
-
----
-
-## 💻 Tech I Speak
+## Technical Expertise
 
 <div align="center">
   <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core"/>
@@ -46,32 +31,30 @@ When I'm not pushing commits at 3 AM, you might find me optimizing my workspace,
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
 </div>
 
----
+## Current Projects
 
+- Developing blockchain solutions with real-world applications
+- Optimizing system architecture for enterprise applications
+- Implementing AI integration for data-driven applications
+- Exploring advanced cloud deployment strategies
 
+## Professional Approach
 
-## ⚡ Fun Facts
+I thrive in fast-paced development environments and have a proven track record of delivering complete, functional projects under tight deadlines. My methodology combines rapid prototyping with rigorous testing to ensure both innovation and reliability.
 
-- 🗣️ Love pancakes
-- 🧹 My code is cleaner than my room during hackathon season
-- ⚡ Can transition from "what’s blockchain?" to implementing Hedera wallet authentication faster than most people set up their development environment
-- ⌨️ Have strong opinions about keyboard switches that I’m willing to defend passionately
-- 🥑 Hate avocado's 
----
+Key strengths:
+- Systems architecture and optimization
+- Full-stack implementation from concept to deployment
+- Blockchain technology integration
+- Data visualization and analytics
 
-## 🔥 What I’m Up To
+## Personal Notes
 
-- 🤹 Juggling multiple hackathons while maintaining sanity (results may vary)
-- ⚙️ Optimizing my tech setup and workflow for maximum productivity
-- 🤖 Exploring the intersection of AI, blockchain, and real-world applications
-- 💡 Convincing myself that starting another project is definitely a good idea
-- 🥞 Searching for the perfect pancake recipe to fuel late-night coding sessions
+When not coding, I'm perfecting my workflow setup, researching emerging technologies, and competing in hackathons. I believe in clean code, efficient systems, and the perfect cup of coffee to fuel development sessions.
 
----
+## Connect
 
-## 📫 Connect With Me
-
-I’m always up for discussing tech, hackathons, system design, or why avocados are overrated. Drop me a message if you’re into any of these things (except avocados).
+Open to discussing technology solutions, system design challenges, or collaborative opportunities.
 
 <div align="center">
   <a href="https://discord.com"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"/></a>
@@ -79,11 +62,6 @@ I’m always up for discussing tech, hackathons, system design, or why avocados 
   <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </div>
 
----
-
 <div align="center">
   <img src="https://github.com/user-attachments/assets/155e7493-a902-4343-94c4-538c9fe4a112" width="100%"/>
-  <br>
-  <i>Currently: Turning caffeine into code and ideas into reality</i>
 </div>
-```
