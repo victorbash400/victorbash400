@@ -66,28 +66,8 @@ class VictorBash:
 - ☁️ **Cloud Solutions**: Designing scalable systems on Azure
 - 🚀 **Performance Optimization**: Making fast applications even faster
 
----
 
-## 🌟 Fun Facts
 
-<table>
-  <tr>
-    <td><img src="https://media.giphy.com/media/l0MYEWpv7Ue0RFVaE/giphy.gif" width="50"/></td>
-    <td>I debug with the intensity of a detective solving cold cases</td>
-  </tr>
-  <tr>
-    <td><img src="https://media.giphy.com/media/xT0xeuOy2Fcl9vDGiA/giphy.gif" width="50"/></td>
-    <td>My rubber duck has heard confessions that would make a priest blush</td>
-  </tr>
-  <tr>
-    <td><img src="https://media.giphy.com/media/26u4b45b8KlgAB7iM/giphy.gif" width="50"/></td>
-    <td>I've turned more coffee into code than should be humanly possible</td>
-  </tr>
-  <tr>
-    <td><img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="50"/></td>
-    <td>My plants have learned to survive on the ambient light from my monitors</td>
-  </tr>
-</table>
 
 ---
 
