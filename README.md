@@ -95,9 +95,9 @@ class VictorBash:
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=victorbash&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=victorbash400&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=victorbash&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=victorbash400&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
 
 </div>
 
@@ -107,7 +107,7 @@ class VictorBash:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-VictorBash-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/victorbash)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Victor_Bash-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/victorbash)
 [![Twitter](https://img.shields.io/badge/Twitter-@VictorBash-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/victorbash)
 [![Discord](https://img.shields.io/badge/Discord-VictorBash%230001-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victor@yourdomain.com)
