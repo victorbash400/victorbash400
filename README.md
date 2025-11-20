@@ -2,41 +2,40 @@
 
 **Full-Stack Developer & AI Engineer**
 
-Hi, I'm Victor. I build intelligent systems and scalable web architecture.
+I build web applications that think.
 
-My work sits at the intersection of traditional software engineering and modern AI. I focus on building production-ready applications that leverage machine learning, graph databases, and cloud infrastructure to solve complex data problems.
+I operate at the intersection of modern web development and artificial intelligence. My philosophy is simple: **TypeScript** for robust, scalable user interfaces, and **Python** for the heavy lifting in AI and data processing.
 
+I believe this combination is the future of software architecture—where type safety meets machine intelligence.
 
 ---
 
 ### The Stack
 
-I believe in choosing the right tool for the job, but this is where I spend most of my time:
+I am a specialist in the Python/TypeScript duality. I don't just use these languages; I build ecosystems around them.
 
-**Core**
-* **Languages:** Python, TypeScript, C#
-* **Frontend:** React, Next.js, Tailwind CSS
-* **Backend:** FastAPI, Node.js, .NET
+**TypeScript **
+* **React & Next.js:** For building high-performance, server-rendered applications.
+* **Type Safety:** I write strict, maintainable code that scales without breaking.
+* **Tailwind CSS:** For rapid, clean UI development.
 
-**AI & Data**
-* **Machine Learning:** PyTorch, TensorFlow, ML Pipelines
-* **Data Engineering:** Graph Databases, PostgreSQL, Redis
-* **Specialization:** LLM Integration, Computer Vision, NLP
+**Python **
+* **FastAPI:** My go-to for building high-concurrency, async backends.
+* **AI Engineering:** PyTorch, LangChain, and vector databases.
+* **Automation:** Scripting complex workflows and agentic behaviors.
 
 **Infrastructure**
-* **Cloud:** AWS, Google Cloud, Azure
-* **DevOps:** Docker, Kubernetes, CI/CD
-* **Architecture:** Serverless, Microservices
+* **Cloud:** AWS & Google Cloud .
+* **Data:** PostgreSQL and Redis for state; GraphDBs for knowledge.
 
 ---
 
-### What I'm Building
+### AI & The Future
 
-I am currently focused on bridging the gap between research-grade AI and usable consumer products.
+I am genuinely obsessed with the pace of AI development. I am not just adding API calls to apps; I am exploring how **Agents**, **LLMs**, and **RAG** pipelines can fundamentally change how we interact with the web.
 
-* **Multi-Agent Systems:** Designing architectures where autonomous agents collaborate to solve workflows.
-* **Knowledge Graphs:** Modeling complex data relationships to improve RAG (Retrieval-Augmented Generation) performance.
-* **Scalable Backends:** rewriting legacy systems to handle high-concurrency AI workloads.
+---
+
 
 
 ### Stats
@@ -50,6 +49,6 @@ I am currently focused on bridging the gap between research-grade AI and usable 
 
 ### Connect
 
-I am always open to discussing heavy engineering challenges, AI research, or open-source collaboration.
+I'm always down to talk about the newest Next.js release, the latest open-source LLM benchmarks, or why TypeScript is non-negotiable for frontend work.
 
 [LinkedIn](https://linkedin.com/in/victorbash) / [Twitter](https://twitter.com/victorbash) / [Email](mailto:victor@yourdomain.com)
