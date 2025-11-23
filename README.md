@@ -1,4 +1,4 @@
-# Victor Bash:
+# Victor Bash
 I build things that work smooth and look nice  mostly Typescript adjacent stuff
 
 
