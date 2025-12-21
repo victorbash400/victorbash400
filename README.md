@@ -1,5 +1,5 @@
 # Victor Bash
-I build things that work smooth and look nice  mostly Typescript adjacent stuff
+I build stuff that runs smooth and looks good—mostly TypeScript-adjacent things.
 
 
 ##  Socials:
