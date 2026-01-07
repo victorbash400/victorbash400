@@ -11,6 +11,9 @@ I build stuff that run  well and look good—mostly TypeScript-adjacent stuff
 ![](https://nirzak-streak-stats.vercel.app/?user=victorbash400&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=victorbash400&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## Trophies
+![](https://github-profile-trophy.vercel.app/?username=victorbash400&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
 ###  Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
