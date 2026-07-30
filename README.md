@@ -2,7 +2,7 @@
 
 Developer and founder of [Aqualabs](https://aqualabs.tech).
 
-[Website](https://victorbash.com) · [Instagram](https://instagram.com/victorbash.dev) · [X](https://x.com/notvictorbash) · [YouTube](https://youtube.com/@VictorBash-h3s) · [Email](mailto:victorbash400@gmail.com)
+[Website](https://victorbash.com) · [Instagram](https://instagram.com/victorbash.dev) · [X](https://x.com/notvictorbash) · [YouTube](https://youtube.com/@VictorBash-h3s) · [Email](mailto:victorbash@aqualabs.tech)
 
 ---
 
