@@ -1,14 +1,10 @@
 # Victor Bash
 
-Developer building hackathon products, experiments, and [Aqualabs](https://aqualabs.tech).
+Developer and founder of [Aqualabs](https://aqualabs.tech).
 
 [Website](https://victorbash.com) · [Instagram](https://instagram.com/victorbash.dev) · [X](https://x.com/notvictorbash) · [YouTube](https://youtube.com/@VictorBash-h3s) · [Email](mailto:victorbash400@gmail.com)
 
 ---
-
-## Hackathons and experiments
-
-I turn ideas into working products—usually across AI, cloud infrastructure, developer tools, and aquaculture technology.
 
 ## Stack
 
