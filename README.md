@@ -1,6 +1,6 @@
 # Victor Bash
 
-Developer and founder of [Aqualabs](https://aqualabs.tech).
+Developer
 
 [Website](https://victorbash.com) · [Instagram](https://instagram.com/victorbash.dev) · [X](https://x.com/notvictorbash) · [YouTube](https://youtube.com/@VictorBash-h3s) · [Email](mailto:victorbash@aqualabs.tech)
 
