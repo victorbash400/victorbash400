@@ -6,7 +6,7 @@ Developer
 
 ---
 
-## Software stack
+## Stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=ts,react,nextjs,python,fastapi,aws,gcp,vercel,postgres,docker,kubernetes,git&perline=12" alt="TypeScript, React, Next.js, Python, FastAPI, AWS, Google Cloud, Vercel, PostgreSQL, Docker, Kubernetes and Git" />
