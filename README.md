@@ -1,6 +1,6 @@
 # Victor Bash
 
-Developer 
+Developer @aqualabs
 
 
 [Website](https://victorbash.com) · [Instagram](https://instagram.com/victorbash.dev) · [X](https://x.com/notvictorbash) · [YouTube](https://youtube.com/@VictorBash-h3s) · [Email](mailto:victorbash@aqualabs.tech)
